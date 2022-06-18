@@ -46,14 +46,14 @@ function App() {
       <div className="timings">
       <div className="list-group">
         
-      <div className="list-group-item list-group-item-action list-group-item-danger">9am to 10am<a href="/requests_slot1"><button type="button" id ="btn_req2" className="btn btn-danger btn-sm">Requests</button></a></div>
-      <div className="list-group-item list-group-item-action list-group-item-danger">10am to 11am<a href="/requests_slot2"><button type="button" id ="btn_req2" className="btn btn-danger btn-sm">Requests</button></a></div>
-      <div className="list-group-item list-group-item-action list-group-item-danger">12pm to 1pm<a href="/requests_slot3"><button type="button" id ="btn_req2" className="btn btn-danger btn-sm">Requests</button></a></div>
-      <div className="list-group-item list-group-item-action list-group-item-danger">2pm to 3pm<a href ="/requests_slot4"><button type="button" id ="btn_req2" className="btn btn-danger btn-sm">Requests</button></a></div>
-      <div className="list-group-item list-group-item-action list-group-item-danger">4pm to 5pm<a href="/requests_slot5"><button type="button" id ="btn_req2" className="btn btn-danger btn-sm">Requests</button></a></div>
-      <a href='#'><button type="button" id ="pending_btn" className="btn btn-warning btn-sm">Pending</button></a>
-      <a href='#'><button type="button" id ="accepted_btn" className="btn btn-success btn-sm">Accepted</button></a>
-      <a href='#'><button type="button" id ="rejected_btn" className="btn btn-danger btn-sm">Rejected</button></a>
+      <div className="list-group-item list-group-item-action list-group-item-danger">9am to 10am<a href="https://atharvabokade.github.io/request-slot-1/"><button type="button" id ="btn_req2" className="btn btn-danger btn-sm">Requests</button></a></div>
+      <div className="list-group-item list-group-item-action list-group-item-danger">10am to 11am<a href="https://atharvabokade.github.io/request-slot-2/"><button type="button" id ="btn_req2" className="btn btn-danger btn-sm">Requests</button></a></div>
+      <div className="list-group-item list-group-item-action list-group-item-danger">12pm to 1pm<a href="https://atharvabokade.github.io/request-slot-3/"><button type="button" id ="btn_req2" className="btn btn-danger btn-sm">Requests</button></a></div>
+      <div className="list-group-item list-group-item-action list-group-item-danger">2pm to 3pm<a href ="https://atharvabokade.github.io/request-slot-4/"><button type="button" id ="btn_req2" className="btn btn-danger btn-sm">Requests</button></a></div>
+      <div className="list-group-item list-group-item-action list-group-item-danger">4pm to 5pm<a href="https://atharvabokade.github.io/request-slot-5/"><button type="button" id ="btn_req2" className="btn btn-danger btn-sm">Requests</button></a></div>
+      <a href='https://atharvabokade.github.io/pending/'><button type="button" id ="pending_btn" className="btn btn-warning btn-sm">Pending</button></a>
+      <a href='https://atharvabokade.github.io/accepted/'><button type="button" id ="accepted_btn" className="btn btn-success btn-sm">Accepted</button></a>
+      <a href='https://atharvabokade.github.io/rejected/'><button type="button" id ="rejected_btn" className="btn btn-danger btn-sm">Rejected</button></a>
       
     </div>
     </div>
