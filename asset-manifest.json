@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/appointment-home1/static/css/main.84e588a6.css",
+    "main.js": "/appointment-home1/static/js/main.2556fb0b.js",
+    "static/js/787.2b51238e.chunk.js": "/appointment-home1/static/js/787.2b51238e.chunk.js",
+    "index.html": "/appointment-home1/index.html",
+    "main.84e588a6.css.map": "/appointment-home1/static/css/main.84e588a6.css.map",
+    "main.2556fb0b.js.map": "/appointment-home1/static/js/main.2556fb0b.js.map",
+    "787.2b51238e.chunk.js.map": "/appointment-home1/static/js/787.2b51238e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84e588a6.css",
+    "static/js/main.2556fb0b.js"
+  ]
+}
